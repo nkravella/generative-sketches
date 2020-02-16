@@ -16,5 +16,5 @@ Daily experimentation with various frameworks and techniques to make generative 
 
 * ### ⊜ [circle as lines](./canvas/circle_as_lines/p5/sketch.js)
 
-<img src="./canvas/circle_as_lines/p5/circleAsLines01.png">
-<img src="./canvas/circle_as_lines/p5/circleAsLines02.png">
+<img src="./p5-js/circle_as_lines/p5/circleAsLines01.png">
+<img src="./p5-js/circle_as_lines/p5/circleAsLines02.png">
