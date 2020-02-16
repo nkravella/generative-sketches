@@ -14,7 +14,12 @@ Daily experimentation with various frameworks and techniques to make generative 
 
 <img src="./processing/Grid_Basic/grid_basic.svg">
 
-* ### ⊜ [circle as lines](./canvas/circle_as_lines/p5/sketch.js)
+* ### ⊜ [circle as lines](./p5-js/circle_as_lines/p5/sketch.js)
 
 <img src="./p5-js/circle_as_lines/p5/circleAsLines01.png">
 <img src="./p5-js/circle_as_lines/p5/circleAsLines02.png">
+
+* ### ⊜ [grid with random = & o](./canvas-sketch/GridEquals.js)
+
+<img src="./canvas-sketch/rendered/GridEquals01.png">
+<img src="./canvas-sketch/rendered/GridEquals02.png">
