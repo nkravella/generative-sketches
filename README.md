@@ -1,7 +1,5 @@
 # GENERATIVE SKETCHES 🎨🖌
 
-Occasionally documentings notes on process / learnings at http://ravella.me.
-
 **Currently working with**: `Processing`, `P5.js`, `canvas-sketch`, and `TouchDesigner`
 
 **Would like to learn**: `Three.js`, `WebGL`, `GLSL Shaders`
