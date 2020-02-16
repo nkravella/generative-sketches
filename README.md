@@ -13,3 +13,8 @@ Daily experimentation with various frameworks and techniques to make generative 
 * ### 💥[simple grid disruption](./processing/Grid_Out/Grid_Out.pde) 
 
 <img src="./processing/Grid_Basic/grid_basic.svg">
+
+* ### ⊜ [circle as lines](./canvas/circle_as_lines/p5/sketch.js)
+
+<img src="./canvas/circle_as_lines/p5/circleAsLines01.png">
+<img src="./canvas/circle_as_lines/p5/circleAsLines02.png">
