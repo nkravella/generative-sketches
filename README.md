@@ -1,4 +1,4 @@
-# GENERATIVE SKETCHES 🎨🖌
+## GENERATIVE SKETCHES 🎨🖌
 
 **Currently working with**: `Processing`, `P5.js`, `canvas-sketch`, and `TouchDesigner`
 
