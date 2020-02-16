@@ -2,7 +2,7 @@
 
 **Currently working with**: `Processing` `P5.js` `canvas-sketch` `TouchDesigner`
 
-**Would like to learn**: `Three.js`, `WebGL`, `GLSL Shaders`
+**Interested in learning**: `Three.js` `WebGL` `GLSL Shaders`
 
 ------------------------------------------------------------------------------------------
 
