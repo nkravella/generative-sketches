@@ -1,3 +1,5 @@
+import processing.svg.*;
+
 // Setup sketch.
 
 void setup()
@@ -8,6 +10,8 @@ void setup()
   background(255);
   // Freeze the frame.
   noLoop();
+  // SVG render begins.
+  beginRecord(SVG, "grid_basic.svg");
 }
 
 // Artwork function.
@@ -28,4 +32,6 @@ void draw()
       line(x, y, a, b);
     }
   }
+   // SVG render ends.
+   endRecord();
 }
