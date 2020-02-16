@@ -1,7 +1,3 @@
-function preload(){
-  // put preload code here
-}
-
 function setup()
 {
   createCanvas(800, 800);
@@ -30,9 +26,10 @@ function draw()
   {
     // Outline of circle.
 		let y = sqrt(sq(radius) - sq(x));
-		line(x, y, x, -y);
+		line(x, -y, x, y);
   }
 
   pop();
   noLoop();
+  save("circleAsLines.png");
 }
