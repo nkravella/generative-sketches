@@ -10,7 +10,7 @@ Daily experimentation with various frameworks and techniques to make generative 
 
 ------------------------------------------------------------------------------------------
 
-* ### 💥[simple grid disruption](./processing/Grid_Out/Grid_Out.pde) 
+* ### 💥[simple grid disruption](./processing/Grid_Basic/Grid_Basic.pde) 
 
 <img src="./processing/Grid_Basic/grid_basic.svg">
 
