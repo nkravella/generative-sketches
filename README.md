@@ -2,7 +2,7 @@
 
 Daily experimentation with various frameworks and techniques to make generative art.
 
-> Occasionally documentings notes on process / learnings at https://nkravella.github.io/blog.
+> Occasionally documentings notes on process / learnings at http://ravella.me.
 
 **Currently working with** `Processing`, `P5.js`, `canvas-sketch`, and `TouchDesigner` <br />
 
