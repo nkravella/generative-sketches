@@ -1,6 +1,6 @@
 ## GENERATIVE SKETCHES 🎨🖌
 
-**Currently working with**: `Processing`, `P5.js`, `canvas-sketch`, and `TouchDesigner`
+**Currently working with**: `Processing` `P5.js` `canvas-sketch` `TouchDesigner`
 
 **Would like to learn**: `Three.js`, `WebGL`, `GLSL Shaders`
 
