@@ -15,7 +15,7 @@
 <img src="./p5-js/circle_as_lines/p5/circleAsLines01.png">
 <img src="./p5-js/circle_as_lines/p5/circleAsLines02.png">
 
-* ### ⊜ [grid with random = & o](./canvas-sketch/GridEquals.js) using `canvas-sketch` package.
+* ### ⊜ [grid with random = & o](./canvas-sketch/GridEquals.js) using `canvas-sketch`.
 
 ```
 const canvasSketch = require('canvas-sketch');
